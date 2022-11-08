@@ -1,7 +1,6 @@
-...work in progress...
 - 👋 Hi, I’m @luigiPinnaAevo
-- 👀 I’m interested in programming etc
-- 🌱 I’m currently learning automation and RPA
+- 👀 I’m interested in programming and digital world
+- 🌱 Currently RPA and backend developer
 
 
 <!---
