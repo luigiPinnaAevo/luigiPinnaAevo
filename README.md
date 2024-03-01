@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @luigiPinnaAevo
 - 👀 I’m interested in programming and digital world
-- 🌱 Currently RPA and backend developer
+- 🌱 Currently Full Stack developer
+- 📲 Improving React and devops
 
 
 <!---
